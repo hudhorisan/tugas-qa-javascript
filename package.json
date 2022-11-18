@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hudhorisan/tugas-qa-javascript/issues"
   },
-  "homepage": "https://github.com/hudhorisan/tugas-qa-javascript#readme"
+  "homepage": "https://github.com/hudhorisan/tugas-qa-javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
